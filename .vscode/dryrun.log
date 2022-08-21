@@ -1,0 +1,5 @@
+make: Entering directory 'c:/Users/Asus/Desktop/ND/Project-2/CD-Exercise/cd on azure/flask-sklearn'
+ 
+python3 -m venv ~/.udacity-devops
+make: Leaving directory 'c:/Users/Asus/Desktop/ND/Project-2/CD-Exercise/cd on azure/flask-sklearn'
+ 
